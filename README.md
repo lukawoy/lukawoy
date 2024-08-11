@@ -10,8 +10,16 @@
 
 <h3>Contacts:</h3>
 
-<p>Telegram - @Lukawoy</p>
-<p>Email - d.s.lukin@mail.ru</p>
+
+
+<p>  
+  
+![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat) - @Lukawoy
+</p>
+<p>
+  
+  ![Static Badge](https://img.shields.io/badge/Email-green?style=flat) - d.s.lukin@mail.ru
+</p>
 
 <h3>Languages and Tools:</h3>
 
