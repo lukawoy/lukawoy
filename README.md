@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Dima Lukin</a> 
-<h3 align="center">Python is a developer and a good guy</h3>
+<h3 align="center">A Python developer and a good guy</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=250&color=2EB6F7&multiline=true&width=1000&height=50&lines=%E2%80%9CMathematics+must+be+studied+if+only+because+it+puts+the+mind+in+order.%E2%80%9D;-+M.V.+Lomonosov)](https://git.io/typing-svg)
 
